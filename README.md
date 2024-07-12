@@ -5,10 +5,10 @@ I'm a passionate Full Stack Developer with a strong foundation in various progra
 
 ## 🚀 Skills and Technologies
 - **Programming Languages:** Python, JavaScript, PHP
-- **Frameworks and Libraries:** Django, Svelte
+- **Frameworks and Libraries:** Django, Svelte, Django Rest Framework - API, Django Ninja API
 - **Content Management Systems:** WordPress
-- **Web Development:** HTML5, CSS3, RESTful APIs
-- **Database Management:** MSSQL, MySQL, PostgreSQL
+- **Web Design:** HTML5, CSS3, Tailwind, Bootstrap
+- **Database Management:** MSSQL, MySQL, PostgreSQL, SQLite
 - **Version Control:** Git, GitHub
 - **Tools:** Docker
 
