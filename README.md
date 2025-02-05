@@ -1,10 +1,12 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm a passionate Full Stack Developer with a strong foundation in various programming languages and frameworks. My professional journey has equipped me with solid project management and coordination skills, especially in roles in software development. I am proficient in Python, Django, JavaScript, React, WordPress, and PHP.
+I'm a passionate Full Stack Developer with a strong foundation in various programming languages and frameworks. My professional journey has equipped me with solid project management and coordination skills, especially in roles in software development. I am proficient in Python, JavaScript and TypeScript.
 
 ## 🚀 Skills and Technologies
-- **Programming Languages:** Python, JavaScript, PHP
+<img src="https://raw.githubusercontent.com/arkerphyo92/arkerphyo92/refs/heads/main/AKP%20Full%20Stack%20Skills.png">
+
+- **Programming Languages:** Python, JavaScript, TypeScript, PHP
 - **Frameworks and Libraries:** Django, ReactJS, Litestar, Sveltekit, Django Rest Framework - API, Django Ninja API
 - **Content Management Systems:** WordPress
 - **Web Design:** HTML5, CSS3, Tailwind, Bootstrap
@@ -13,6 +15,7 @@ I'm a passionate Full Stack Developer with a strong foundation in various progra
 - **Tools:** Docker
 
 ## 📫 Get in Touch
+- **Portfolio:** [www.akphyo.com](https://www.akphyo.com)
 - **LinkedIn:** [Arker Phyo](https://www.linkedin.com/in/arker-phyo-351360211/)
 - **Facebook:** [Divergent Graphic & Web Design](https://www.facebook.com/DivergentGraphicWebDesign)
 - **Email:** arkerphyo92@gmail.com
