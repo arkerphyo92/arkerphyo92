@@ -4,7 +4,7 @@
 I'm a passionate Full Stack Developer with a strong foundation in various programming languages and frameworks. My professional journey has equipped me with solid project management and coordination skills, especially in roles in software development. I am proficient in Python, JavaScript and TypeScript.
 
 ## 🚀 Skills and Technologies
-<img src="https://raw.githubusercontent.com/arkerphyo92/arkerphyo92/refs/heads/main/AKP%20Full%20Stack%20Skills.png">
+<img src="https://github.com/arkerphyo92/arkerphyo92/blob/main/AKP%20Full%20Stack%20Skills.png?raw=true">
 
 - **Programming Languages:** Python, JavaScript, TypeScript, PHP
 - **Frameworks and Libraries:** Django, ReactJS, Litestar, Sveltekit, Django Rest Framework - API, Django Ninja API
